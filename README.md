@@ -5,3 +5,5 @@ As the Police like to say, "move along now - nothing to see here!"
 ...or who knows?  Things can change rapidly around here!
 
 Files are now both on hard drive and GitHub (maybe!)
+
+And even fetch mercge and pull seem to work...
